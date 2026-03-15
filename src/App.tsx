@@ -30,7 +30,7 @@ function AppContent() {
               MotorMaster <span className="text-indigo-500">Kids</span>
             </h1>
           </div>
-
+          {/*
           <div className="flex items-center gap-4">
             <button 
               onClick={handleSaveGallery}
@@ -41,6 +41,7 @@ function AppContent() {
               <span>Save Gallery</span>
             </button>
           </div>
+          */}
         </header>
 
         {/* Activity Stage */}
